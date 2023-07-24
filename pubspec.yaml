@@ -4,7 +4,7 @@ version: 2.0.14
 repository: https://github.com/WalletConnect/WalletConnectFlutterV2
 
 environment:
-  sdk: '>=2.19.0 <3.0.0'
+  sdk: ">=2.18.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -39,5 +39,4 @@ dev_dependencies:
   eth_sig_util: ^0.0.9
   build_version: ^2.0.0
   flutter_lints: ^2.0.0
-  freezed: ^2.4.0
 

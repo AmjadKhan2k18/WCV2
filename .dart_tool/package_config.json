@@ -254,12 +254,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "freezed",
-      "rootUri": "file:///Users/khan/.pub-cache/hosted/pub.dev/freezed-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "freezed_annotation",
       "rootUri": "file:///Users/khan/.pub-cache/hosted/pub.dev/freezed_annotation-2.4.1",
       "packageUri": "lib/",
@@ -647,10 +641,10 @@
       "name": "walletconnect_flutter_v2",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-07-24T14:17:57.784032Z",
+  "generated": "2023-07-24T14:29:41.426069Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
